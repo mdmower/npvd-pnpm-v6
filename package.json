@@ -32,9 +32,9 @@
     "@pnpm/lockfile-walker": "^9.0.4"
   },
   "devDependencies": {
-    "@types/node": "^20.19.24",
-    "publint": "^0.3.15",
-    "tsup": "^8.5.0",
+    "@types/node": "^20.19.30",
+    "publint": "^0.3.17",
+    "tsup": "^8.5.1",
     "typescript": "^5.9.3"
   }
 }
